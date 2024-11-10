@@ -37,7 +37,7 @@ const Login = () => {
             rel="noopener noreferrer"
             className="focus:underline hover:underline"
           >
-            Sign up here
+            Sign up
           </a>
         </p>
         <div className="my-6 space-y-4">
